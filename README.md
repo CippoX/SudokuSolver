@@ -66,3 +66,5 @@ The study explored two approaches for solving Sudoku puzzles: backtracking and s
 ## References
 
 1. Stuart Russell and Peter Norvig. *Artificial Intelligence: A Modern Approach*. Prentice Hall, 3rd Edition, 201
+2. Challenging Luck. Simulated annealing explained by solving sudoku - artificial intelligence.
+3. Daniel Delahaye, Supatcha Chaimatanan, and Marcel Mongeau. Simulated an- nealing: From basics to applications. In Michel Gendreau and Jean-Yves Potvin, editors, Handbook of Metaheuristics, volume 272 of International Series in Op- erations Research & Management Science (ISOR), pages 1–35. Springer, 2019.
