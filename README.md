@@ -10,8 +10,7 @@ Palmisano Tommaso, 886825
 
 ## I. Abstract
 
-Due to how it is formulated, solving a sudoku puzzle is a problem often used to explain Constraint Satisfaction Problems. Each cell represents a variable with specific constraints, such as ensuring no duplicate numbers in the same row, column, or 3x3 square. This projet illustrates how to solve sudoku using Constraint Satisfaction Problem solving techniques like Backtracking and Simulated Annealing. Basic knowledge of sudoku is assumed.
-
+Due to how it is formulated, solving a sudoku puzzle is a problem often used to explain Constraint Satisfaction Problems. Each cell represents a variable with specific constraints, such as ensuring no duplicate numbers in the same row, column, or 3x3 square. This projet illustrates how to solve sudoku using Constraint Satisfaction Problem solving techniques like Backtracking and Simulated Annealing.
 
 
 ## II. Introduction
